@@ -5,4 +5,3 @@ x = np.linspace(0,1,50)
 y1 = np.cos(4*np.pi*x)
 plt.plot(x,y1,'r-*',lw=1)
 plt.show()
-#this is the first time..
